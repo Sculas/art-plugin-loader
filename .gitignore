@@ -1,0 +1,8 @@
+/target
+*.o
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.exp
